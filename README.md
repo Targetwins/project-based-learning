@@ -1,5 +1,5 @@
 
-<h3 align="center"><span><img src="https://img.shields.io/badge/Python%20-%20Face%20Recognizer%20Attendance%20System-282C34?logo=Python&logoColor=3776AB" alt="HTML5 logo" title="HTML5" height="38" /></span>
+<h3 align="center"><span><img src="https://img.shields.io/badge/Python%20-%20Face%20Recognizer%20Aendance%20System-282C34?logo=Python&logoColor=3776AB" alt="HTML5 logo" title="HTML5" height="38" /></span>
 </h3>
 
 
